@@ -1,1 +1,1 @@
-# lead_score_case_study
+# Prediction of Hot Leads for Online Education Company
